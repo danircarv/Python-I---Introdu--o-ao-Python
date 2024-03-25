@@ -1,2 +1,2 @@
 print("Hello World")
-print("Aprendeno a Linguagem Python")
+print("Aprendendo a Linguagem Python")
