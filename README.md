@@ -1,1 +1,1 @@
-Repositório para armazenar os códigos de aprendizado de Python do curso da formação da OBC
+Repositório para armazenar os códigos de aprendizado do primeiro modulo do curso da formação Python da OBC
