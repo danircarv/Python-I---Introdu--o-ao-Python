@@ -1,5 +1,3 @@
-
-
 games_list = ["Resident Evil", "Star Wars",
               "Zelda", "Red Dead", "Mario", "Luigi"]
 
